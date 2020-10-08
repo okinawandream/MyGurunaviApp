@@ -1,0 +1,24 @@
+#text::placeholder {
+  color: #e1e1e1;
+}
+
+img {
+  border-radius: 3px;
+  width: 100px;
+  height: 100px;
+}
+
+ img:hover {
+  opacity: 0.5;
+ }
+
+ #result {
+  width: 90%;
+ }
+
+ #result dd {
+   margin: 0;
+   text-align: left;
+   font-size: 12px;
+ }
+
